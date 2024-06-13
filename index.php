@@ -8,6 +8,7 @@
 <body>
 <?php 
     echo "hello world";
+    echo "Updated version";
 ?>
 </body>
 </html>
